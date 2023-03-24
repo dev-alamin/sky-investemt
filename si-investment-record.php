@@ -35,6 +35,7 @@ function _sky_input_form_validation($data) {
 
 // Include admin view 
 require_once __DIR__ . '/admin-view.php';
+require_once __DIR__ . '/investor-form.php';
 
 /**
  * Add a button to single job listing 
